@@ -1,7 +1,12 @@
 {
-  "name": "hackernews-react-apollo",
+  //"homepage": "https://deniz.bea8.de/",
+  "name": "react-blog",
   "version": "0.1.0",
   "private": true,
+  "engines":{
+    "npm":"6.1.0",
+    "node":"10.7.0"
+  },
   "dependencies": {
     "apollo-boost": "^0.1.4",
     "apollo-link-context": "^1.0.7",
