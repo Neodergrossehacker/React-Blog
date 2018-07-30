@@ -11,24 +11,24 @@ Anwendung für Wpm Webentwicklung
 •	Likes verteilen
 •	Echtzeit Updates
 
-<b>Frontend:</b>
-React: Frontend framework 
+<b>Frontend:</b><br/>
+React: Frontend framework <br/>
 Apollo Client 2.1: Caching GraphQL client
 
-<b>Backend:</b>
-graphql-yoga: GraphQL Server 
+<b>Backend:</b><br/>
+graphql-yoga: GraphQL Server <br/>
 Prisma: GraphQL API Layer verbindet meine Datenbank mit einer GraphQL API
 
-<b>GraphQl-Schema / CRUD-Operationen:</b>
+<b>GraphQl-Schema / CRUD-Operationen:</b><br/>
 
-•	Queries:
-  feed: Hole Beiträge aus dem Backend
-•	Mutations:
-  post: Erstelle neue Beiträge 
-  signup: Erstelle einen neuen Account
-  login: Login 
-  vote: „Gefällt mir“ - Angabe
-•	Subscriptions:
-  newLink: Echtzeitupdate für neue Links
+•	Queries:<br/>
+  feed: Hole Beiträge aus dem Backend<br/>
+•	Mutations:<br/>
+  post: Erstelle neue Beiträge <br/>
+  signup: Erstelle einen neuen Account<br/>
+  login: Login <br/>
+  vote: „Gefällt mir“ - Angabe<br/>
+•	Subscriptions:<br/>
+  newLink: Echtzeitupdate für neue Links<br/>
   newVote: Echtzeitupdate für neue Votes
 
