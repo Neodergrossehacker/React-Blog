@@ -13,23 +13,23 @@ Anwendung für Wpm Webentwicklung
 •	Echtzeit Updates<br/>
 
 <b>Frontend:</b><br/>
-React: Frontend framework <br/>
-Apollo Client 2.1: Caching GraphQL client
+<i>React</i>: Frontend framework <br/>
+<i>Apollo Client 2.1</i>: Caching GraphQL client
 
 <b>Backend:</b><br/>
-graphql-yoga: GraphQL Server <br/>
-Prisma: GraphQL API Layer verbindet meine Datenbank mit einer GraphQL API
+<i>graphql-yoga</i>: GraphQL Server <br/>
+<i>Prisma</i>: GraphQL API Layer verbindet meine Datenbank mit einer GraphQL API
 
 <b>GraphQl-Schema / CRUD-Operationen:</b><br/>
 
-•	Queries:<br/>
-  feed: Hole Beiträge aus dem Backend<br/>
-•	Mutations:<br/>
-  post: Erstelle neue Beiträge <br/>
-  signup: Erstelle einen neuen Account<br/>
-  login: Login <br/>
-  vote: „Gefällt mir“ - Angabe<br/>
-•	Subscriptions:<br/>
-  newLink: Echtzeitupdate für neue Links<br/>
-  newVote: Echtzeitupdate für neue Votes
+<b>Queries:<b><br/>
+  •	feed: Hole Beiträge aus dem Backend<br/>
+<b>Mutations:<b><br/>
+  •	post: Erstelle neue Beiträge <br/>
+  •	signup: Erstelle einen neuen Account<br/>
+  •	login: Login <br/>
+  •	vote: „Gefällt mir“ - Angabe<br/>
+<b>Subscriptions:<b><br/>
+  •	newLink: Echtzeitupdate für neue Links<br/>
+  •	newVote: Echtzeitupdate für neue Votes
 
