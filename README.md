@@ -1,6 +1,14 @@
 # React-Blog
 Anwendung für Wpm Webentwicklung
 
+Um die Anwendung zu starten :
+
+1. ZIP download oder kopie über Key erstellen </br>
+2. cd react-blog server </br> yarn install
+3. cd react-blog </br>yarn install </br>yarn start</br></br>
+
+
+
 ![Archtitektur](PaperReactBlog.png?raw=true "Archtitektur")
 
 <b>Features</b>
