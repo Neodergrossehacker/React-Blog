@@ -4,12 +4,12 @@ Anwendung für Wpm Webentwicklung
 
 <b>Features</b>
 
-•	Beiträge anzeigen 
-•	Beitragsliste durchsuchen
-•	User-Authentifizierung
-•	Posten von neuen Beiträgen
-•	Likes verteilen
-•	Echtzeit Updates
+•	Beiträge anzeigen <br/>
+•	Beitragsliste durchsuchen<br/>
+•	User-Authentifizierung<br/>
+•	Posten von neuen Beiträgen<br/>
+•	Likes verteilen<br/>
+•	Echtzeit Updates<br/>
 
 <b>Frontend:</b><br/>
 React: Frontend framework <br/>
