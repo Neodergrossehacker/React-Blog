@@ -18,6 +18,7 @@ Um die Anwendung zu starten :
 <b>Features</b>
 
 •	Beiträge anzeigen <br/>
+•	Beiträge filtern nach Aktualität und Beliebtheit <br/>
 •	Beitragsliste durchsuchen<br/>
 •	User-Authentifizierung<br/>
 •	Posten von neuen Beiträgen<br/>
