@@ -1,6 +1,7 @@
 # React-Blog
 Anwendung für Wpm Webentwicklung
 
+![Archtitektur](PaperReactBlog.png?raw=true "Archtitektur")
 
 <b>Features</b>
 
