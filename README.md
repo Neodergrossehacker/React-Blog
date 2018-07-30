@@ -22,14 +22,14 @@ Anwendung für Wpm Webentwicklung
 
 <b>GraphQl-Schema / CRUD-Operationen:</b><br/>
 
-<b>Queries:<b><br/>
+<b>Queries:</b><br/>
   •	feed: Hole Beiträge aus dem Backend<br/>
-<b>Mutations:<b><br/>
+<b>Mutations:</b><br/>
   •	post: Erstelle neue Beiträge <br/>
   •	signup: Erstelle einen neuen Account<br/>
   •	login: Login <br/>
   •	vote: „Gefällt mir“ - Angabe<br/>
-<b>Subscriptions:<b><br/>
+<b>Subscriptions:</b><br/>
   •	newLink: Echtzeitupdate für neue Links<br/>
   •	newVote: Echtzeitupdate für neue Votes
 
