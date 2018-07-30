@@ -1,6 +1,10 @@
 # React-Blog
 Anwendung für Wpm Webentwicklung
 
+Die Anwendung ist ein Blog, auf React- und GQL- Basis in dem unbegrenzt Personen Beiträge schalten können. Dazu gehört das Teilen von kurzen Posts, Zitaten und Links.
+
+Beim Versuch die App auf Heroku zu deployen traten Probleme auf, die auf Grund der angehängten Datenbank entstanden sind und ich leider nicht rechtzeitig lösen konnte, daher ist eine Ansicht derzeit nur im lokalen Browser möglich. 
+
 Um die Anwendung zu starten :
 
 1. ZIP download oder kopie über Key erstellen </br>
